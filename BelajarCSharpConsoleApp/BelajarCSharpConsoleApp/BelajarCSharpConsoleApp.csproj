@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="membaca data dari keyword\MembacaDataTipeKarakter.cs" />
     <Compile Include="membaca data dari keyword\MembacaDataTipeTeks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
