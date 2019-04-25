@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarCSharpConsoleApp", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MembacaDataKarakter", "MembacaDataKarakter\MembacaDataKarakter.csproj", "{95C38B95-13E1-446A-B7B6-4B7B72F2846C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MembacaDataTipeNumerik", "MembacaDataTipeNumerik\MembacaDataTipeNumerik.csproj", "{99A2F9B0-AA45-401B-91B1-3D8811899E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodeParse", "MetodeParse\MetodeParse.csproj", "{CDFB8EF2-6D91-49E7-B123-D17ADD3B26F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{95C38B95-13E1-446A-B7B6-4B7B72F2846C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95C38B95-13E1-446A-B7B6-4B7B72F2846C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95C38B95-13E1-446A-B7B6-4B7B72F2846C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A2F9B0-AA45-401B-91B1-3D8811899E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A2F9B0-AA45-401B-91B1-3D8811899E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A2F9B0-AA45-401B-91B1-3D8811899E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A2F9B0-AA45-401B-91B1-3D8811899E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFB8EF2-6D91-49E7-B123-D17ADD3B26F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFB8EF2-6D91-49E7-B123-D17ADD3B26F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFB8EF2-6D91-49E7-B123-D17ADD3B26F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFB8EF2-6D91-49E7-B123-D17ADD3B26F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
